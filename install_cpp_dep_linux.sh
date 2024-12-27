@@ -7,3 +7,4 @@ echo
 sudo apt-get install gcc
 sudo apt-get install cmake
 sudo apt-get install libbluetooth-dev
+sudo apt-get install jsoncpp
